@@ -1,4 +1,4 @@
-# Pre-Programming-61
+# Pre-Programming 61
 This repository consists of codes of Pre-Programming 61 CAMP, Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).
 _____
 
